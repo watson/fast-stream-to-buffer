@@ -1,6 +1,6 @@
 {
   "name": "fast-stream-to-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Consume a stream of data into a binary Buffer as efficiently as possible",
   "main": "index.js",
   "dependencies": {
@@ -32,5 +32,9 @@
   "bugs": {
     "url": "https://github.com/watson/fast-stream-to-buffer/issues"
   },
-  "homepage": "https://github.com/watson/fast-stream-to-buffer#readme"
+  "homepage": "https://github.com/watson/fast-stream-to-buffer#readme",
+  "coordinates": [
+    55.6773705,
+    12.5526636
+  ]
 }
